@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<script type="text/javascript">
+	
+	alert("Hola, no logre combinar booleanos lo siento, a continuacion aparece el resultado del codigo"); //Alerta
+	
+	var Semestre = 3; //Variable numerica
+		
+	var alumno = "Christhian Alberto Rodriguez Garcia"; //Variable en cadena
+		
+	var edad = 20; //Variable numerica
+	
+	var materia = "POO"; //Variable en cadena
+	
+	var Juegos = new Array("Minecraft", "Apex Legends", "LoL", "Among Us", "Fall Guys", "Terraia", "Rocket League") //Arreglo implementado
+	
+	document.write("Voy en el semetre " + Semestre + ", Mi nombre es " + alumno + " tengo " + edad + " años de edad, y estudio la materia de " 
+	+ materia + ",  mi juego favorito es " + Juegos[6] + ". " ) //Impresion de variables
+	
+</script>
+
+</body>
+</html>
